@@ -1,0 +1,100 @@
+absl-py==1.0.0
+appdirs==1.4.4
+astunparse==1.6.3
+audioread @ file:///Users/runner/miniforge3/conda-bld/audioread_1615862486522/work
+brotlipy==0.7.0
+cachetools==5.0.0
+certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4d2o0arbv6/croot/certifi_1665076671099/work/certifi
+cffi==1.15.0
+charset-normalizer==2.0.12
+cloudpickle==2.1.0
+cmake==3.22.4
+cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5871d1ea-0250-4cd7-ac89-4b1e60514f5daqk8t0ow/croots/recipe/cryptography_1652101128666/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+et-xmlfile==1.1.0
+flatbuffers==2.0
+fonttools==4.33.3
+future==0.18.2
+gast==0.5.3
+google-auth==2.6.6
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/grpcio_1637592348692/work
+h5py @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/h5py_1637162753555/work
+hyperopt==0.2.7
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+imageio==2.19.2
+imbalanced-learn==0.9.1
+imblearn==0.0
+importlib-metadata==4.11.3
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+keras==2.8.0
+Keras-Preprocessing==1.1.2
+kiwisolver==1.4.2
+libclang==14.0.1
+librosa==0.9.1
+line-profiler==3.5.1
+llvmlite==0.38.0
+Markdown==3.3.7
+matplotlib==3.5.2
+memory-profiler==0.60.0
+munkres==1.1.4
+networkx==2.8
+numba @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-a1e8tz09/numba_1648040520977/work
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e99dd190-62ea-4b66-a328-d961062afa8ar4io6k3p/croots/recipe/numpy_and_numpy_base_1651563626935/work
+oauthlib==3.2.0
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
+opt-einsum==3.3.0
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.2
+Pillow==9.1.0
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+protobuf==3.20.1
+psutil==5.9.0
+py4j==0.10.9.5
+pyaml==21.10.1
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+PyAudio==0.2.11
+pycparser==2.21
+pydot==1.4.2
+pyfilterbank @ git+https://github.com/SiggiGue/pyfilterbank.git@5d74af8d936d79dcb61f7f35a3120d79ea93480b
+pyloudnorm==0.1.0
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing==3.0.9
+PySocks @ file:///Users/ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2022.1
+PyWavelets==1.3.0
+PyYAML==6.0
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+requests-oauthlib==1.3.1
+resampy==0.2.2
+rsa==4.8
+scikit-image==0.19.2
+scikit-learn==1.1.3
+scikit-optimize==0.9.0
+scipy==1.8.0
+seaborn==0.11.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+SoundFile==0.10.3.post1
+tensorboard==2.8.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow-addons==0.17.1
+tensorflow-macos==2.8.0
+tensorflow-metal==0.4.0
+termcolor==1.1.0
+tf-estimator-nightly==2.8.0.dev2021122109
+threadpoolctl==3.1.0
+tifffile==2022.5.4
+torch==1.12.1
+torch-lr-finder==0.2.1
+tqdm==4.64.0
+typeguard==2.13.3
+typing_extensions==4.2.0
+urllib3 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_dc7bd08d-3aa9-4e45-9124-1c432b2bee1dmp2r0ell/croots/recipe/urllib3_1650640006820/work
+Werkzeug==2.1.2
+wrapt==1.14.1
+zipp==3.8.0
